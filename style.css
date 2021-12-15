@@ -8,6 +8,12 @@ body {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 45px;
   }
+  h2 {
+    color: black;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 95px;
+  }
   a{
    
         color: black;
@@ -36,6 +42,7 @@ body {
   .price {
     color: grey;
     font-size: 22px;
+    text-align: left;
   }
   
   .card button {
@@ -53,6 +60,5 @@ body {
   .card button:hover {
     opacity: 0.7;
   }
-
 
 
