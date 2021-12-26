@@ -13,6 +13,13 @@ body {
     text-align: center;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 95px;
+  
+  }
+  h3{
+    color: black;
+    text-align: left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
   }
   a{
    
@@ -61,4 +68,10 @@ body {
     opacity: 0.7;
   }
 
-
+  .review {
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+  }
