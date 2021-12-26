@@ -75,3 +75,11 @@ body {
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
   }
+.button {
+
+  color: white;
+  background-color: black;
+  text-align: center;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
